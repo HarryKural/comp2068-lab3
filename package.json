@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "node calculator",
+  "main": "lab3.js",
+  "start": "nodemon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
+}
